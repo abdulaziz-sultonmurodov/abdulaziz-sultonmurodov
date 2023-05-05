@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [abdulaziz.me](abdulaziz.me)
+- 👨‍💻 All of my projects are available at [abdulaziz-sultonmurodov](https://github.com/abdulaziz-sultonmurodov)
 
 - 📫 How to reach me **abdulazizsultonmurodov.dev@gmail.com**
 
